@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom
+
+https://www.kaggle.com/datasets/haidermaseeh/resume-dataset
