@@ -1,7 +1,7 @@
 import torch
 import re
 import pickle
-from model import CVTransformer, encode
+from train import CVTransformer, encode
 
 # ---------------- PREPROCESS ----------------
 
