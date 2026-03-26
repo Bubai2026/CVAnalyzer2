@@ -105,11 +105,10 @@ This project uses a **custom paired dataset**:
 CV_Analyzer/
 │
 ├── main.py        # Full pipeline (parse + preprocess + predict)
-├── train.py       # Training script
-├── model.py       # Transformer model + tokenizer + dataset
+├── train.py       # Transformer model + tokenizer + Training script
 │
-├── data/
-│   └── train_pairs.csv
+├── Datasets/          # Dataset
+│   └── dataset_links.txt        
 │
 ├── checkpoints/
 │   ├── model.pth
